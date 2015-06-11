@@ -8,3 +8,10 @@ I'm Ziana; let me tell you a bit about myself.
 I'm a programmer, a blogger, a web developer/designer, and lover of most things Korean.
 
 I  love learning about different cultures, and trying my hand at different languages.
+
+Stay Connected:
+Twitter : <a href="https://twitter.com/zianasue">@ZianaSue</a>
+Facebook: <a href="https://facebook.com/trickymitchell">Ziana Mitchell</a>
+LinkedIn: <a href="https://linkedin.com/in/cnmitchell">Christina (Ziana) Mitchell</a>
+Quora:    <a href="https://quora.com/Ziana-Mitchell">Ziana Mitchell</a> 
+Google+:  <a href="https://plus.google.com/u/0/+ZianaMitchell">+Ziana Mitchell</a>
