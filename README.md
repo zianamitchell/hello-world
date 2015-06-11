@@ -9,7 +9,7 @@ I'm a programmer, a blogger, a web developer/designer, and lover of most things 
 
 I  love learning about different cultures, and trying my hand at different languages.
 
-<h5>Stay Connected:</h5><br/>
+<h5>Stay Connected:</h5>
 Twitter : <a href="https://twitter.com/zianasue">@ZianaSue</a><br/>
 Facebook: <a href="https://facebook.com/trickymitchell">Ziana Mitchell</a><br/>
 LinkedIn: <a href="https://linkedin.com/in/cnmitchell">Christina (Ziana) Mitchell</a><br/>
